@@ -1,6 +1,8 @@
 # Juego de texto Python - POO
 
-### Descripcion
+### La Mansion embrujada
+
+Descripcion ----->
 
 Juego de texto desarrollado en python utilizando la programacion orientada a objetos (herencia, polimorfismo)
 
